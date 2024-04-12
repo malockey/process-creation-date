@@ -1,4 +1,4 @@
-# Process Creation Date Retrieval
+# Process Creation Date
 
 This Python script retrieves the creation date of a specified process on a Windows system using the WMIC (Windows Management Instrumentation Command-line) tool.
 
